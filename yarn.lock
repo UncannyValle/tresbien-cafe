@@ -1896,6 +1896,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
+tailwind-hamburgers@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/tailwind-hamburgers/-/tailwind-hamburgers-1.1.2.tgz#b76e1158b12f84a644852b5b8814fbae44ba279f"
+  integrity sha512-upHI64kECJ3i/+KX0Y9K4SR7+iPEDCNd5AyVSElvByzKqMFI0FhK+CXuBVFjfT5Twqvqd0OYKR5ME+e2H6XI5Q==
+
 tailwindcss@^3.0.23:
   version "3.0.23"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.0.23.tgz#c620521d53a289650872a66adfcb4129d2200d10"

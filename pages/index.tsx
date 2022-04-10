@@ -5,7 +5,6 @@ import Image from 'next/image'
 const Home: NextPage = () => {
   return (
     <div>
-      <h1 className='text-3xl'>cool beans</h1>
     </div>
   )
 }
